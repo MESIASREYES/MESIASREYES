@@ -3,5 +3,5 @@
 <a href="https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo" target="_blank"><img src="https://img.shields.io/badge/Grupo-%808080.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MESIASREYES-OFC&show_icons=true&theme=chartreuse-dark)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MESIASREYES-OFC&layout=compact&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=MESIASREYES&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MESIASREYES&layout=compact&theme=chartreuse-dark)
