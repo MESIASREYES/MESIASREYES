@@ -1,7 +1,5 @@
 ### BIENVENIDO A MI PERFIL 👋
 
-
-## hola 👋 Bienvenido, te presento mi perfil ✨
 <a href="https://wa.me/50369907657" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=red" alt="WhatsApp"></a>
 [![Grupos](https://img.shields.io/badge/Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn) 
 
