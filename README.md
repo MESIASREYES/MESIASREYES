@@ -16,8 +16,4 @@
 </div>
 <h2 align="center"> MIS PROYECTOS </h2>
 
-<a href="https://github.com/elrebelde21/LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=LoliBot-MD&theme=merko)</a>
-<a href="https://github.com/elrebelde21/The-LoliBot-MD-V2">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD-V2&theme=merko)</a>
-<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=merko)</a>
-
-<h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
+<a href="https://github.com/MEIASREYES/BOT-C.D.R">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=BOT-C.D.R&theme=merko)</a>
