@@ -16,7 +16,7 @@
 </div>
 <h2 align="center"> MIS PROYECTOS </h2>
 
-<a href="https://github.com/MESIASREYES/BOT-C.D.R">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elMESIASREYES&repo=BOT-C.D.R&theme=merko)</a>
+<a href="https://github.com/MESIASREYES/BOT-C.D.R">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elMESIASREYESS&repo=BOT-C.D.R&theme=merko)</a>
 
 
 
