@@ -9,6 +9,7 @@
 <br><br>
 </a>
 
+<p style="text-shadow: 0.1em 0.1em 0.15em rgb(0, 0, 255)">…</p>
 <p align="center"> 
 <a href="https://github.com/MESIASREYES/Fenix-Bot-CD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=8000&color=[rgb]&center=falso&vCenter=falso&lines=𝑴𝑰𝑺++𝑷𝑹𝑶𝒀𝑬𝑪𝑻𝑶𝑺" height="120px"></a> 
 </p>
