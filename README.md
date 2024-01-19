@@ -15,7 +15,3 @@
 </p>
 
 <a href="https://github.com/MESIASREYES/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MESIASREYES&repo=Fenix-Bot-CD&theme=omni)</a>
-
-
-
-<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
