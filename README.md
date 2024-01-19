@@ -14,3 +14,20 @@
 </p>
 
 <a href="https://github.com/MESIASREYES/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MESIASREYES&repo=Fenix-Bot-CD&theme=omni)</a>
+
+
+<h1 align="center"> Hi there 👋 </h1>
+<p align="center"> I am aayushi Sharma. I Love ❤️ programming and currently working as Machine learning engineer. </p>
+<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
+<h3 align="center"> Language & Skills </h3>
+
+- Python
+- C++
+- JavaScipt
+- Web Development
+- Machine Learning
+- Deep learning
+- Natural language processing
+- App Development
+
+<h4 align="center">Things got bugs, gonna smash them one by one</h4>
