@@ -15,4 +15,3 @@
 </p>
 
 <a href="https://github.com/MESIASREYES/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MESIASREYES&repo=Fenix-Bot-CD&theme=maroongold)</a>
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
