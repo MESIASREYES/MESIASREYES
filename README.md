@@ -1,6 +1,10 @@
 ### BIENVENIDO A MI PERFIL 👋
 <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="400" width="400">
 
+<img align="right" src="https://www.kindpng.com/picc/m/236-2362818_anime-sempai-animegirl-heart-kawaii-cute-anime-girl/.png" height="400" width="400">
+
+<img align="right" src="https://www.kindpng.com/picc/m/90-908155_c-anime-cute-thread-anime-cat-girl-hot.png" height="400" width="400">
+
 <a href="https://wa.me/50369907657" target="blank"><img src="https://img.shields.io/badge/Creador-480804?style=for-the-badge&logo=whatsapp&logoColor=yellow" /></a>
 [![Grupos](https://img.shields.io/badge/Grupo-480804?style=for-the-badge&logo=whatsapp&logoColor=yellow)](https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn) 
 
@@ -17,5 +21,3 @@
 <a href="https://github.com/MESIASREYES/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MESIASREYES&repo=Fenix-Bot-CD&theme=maroongold)</a>
 
 
-<img align="right" src="https://www.kindpng.com/picc/m/236-2362818_anime-sempai-animegirl-heart-kawaii-cute-anime-girl/.png" height="400" width="400">
-<img align="right" src="https://www.kindpng.com/picc/m/90-908155_c-anime-cute-thread-anime-cat-girl-hot.png" height="400" width="400">
