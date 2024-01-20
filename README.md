@@ -17,5 +17,3 @@
 <a href="https://github.com/MESIASREYES/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MESIASREYES&repo=Fenix-Bot-CD&theme=maroongold)</a>
 
 
-
-<a href="https://www.kindpng.com/imgv/mobTT_ahegao-anime-girl-face-outline-yandere-ahegao-face/" target="_blank">#ahegao #anime #girl #face #outline #yandere - Ahegao Face Drawing Easy, HD Png Download @kindpng.com</a>
