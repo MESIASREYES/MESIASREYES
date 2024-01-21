@@ -19,3 +19,6 @@
 
 
 <img align="right" src="https://www.kindpng.com/picc/m/236-2362818_anime-sempai-animegirl-heart-kawaii-cute-anime-girl/.png" height="400" width="400">
+
+
+<img src="blob:https://web.telegram.org/73011519-8158-438e-a57c-d67be1efd6fe.jpg" height=",70px"> 
