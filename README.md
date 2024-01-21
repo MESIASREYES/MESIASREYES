@@ -8,7 +8,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=MESIASREYES&show_icons=true&theme=maroongold)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MESIASREYES&layout=compact&theme=maroongold)
 
-<br><br>
 </a>
 
 <p align="center"> 
