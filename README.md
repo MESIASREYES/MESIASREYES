@@ -8,7 +8,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=MESIASREYES&show_icons=true&theme=maroongold)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=MESIASREYES&layout=compact&theme=maroongold)
 
-</a>
 
 <p align="center"> 
 <a href="https://github.com/MESIASREYES/Fenix-Bot-CD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=13&duration=8000&color=[E8A010]&center=falso&vCenter=falso&lines=𝑴𝑰𝑺++𝑷𝑹𝑶𝒀𝑬𝑪𝑻𝑶𝑺" height="120px"></a> 
